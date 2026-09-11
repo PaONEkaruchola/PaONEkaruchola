@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:0B7285&height=190&section=header&text=Pavan%20Karuchola&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20Engineer%20%E2%80%94%20Simulation%2C%20Perception%2C%20Estimation%20%26%20Controls&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:0B7285&height=190&section=header&text=Pavan%20Karuchola&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20Engineer%20%7C%20Simulation%20%7C%20Perception%20%7C%20Estimation%20%7C%20Controls&descAlignY=58&descSize=17" width="100%" />
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=1FD1C4&center=true&vCenter=true&width=780&lines=Bridging+Simulation%2C+Real-Time+Estimation%2C+and+Closed-Loop+ROS+2+Control;State+Estimation+%7C+SLAM+%7C+Manipulation+%7C+Embedded+Controls;M.S.+Robotics+%40+University+of+Delaware+%E2%80%94+2026" alt="Typing SVG" />
