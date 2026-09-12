@@ -180,20 +180,23 @@ Mentored student engineering teams through embedded design, controls architectur
 ## GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PaONEkaruchola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaONEkaruchola&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaONEkaruchola&theme=tokyonight" width="98%"/>
+</div>
+
+<div align="center">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaONEkaruchola&theme=tokyonight"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaONEkaruchola&theme=tokyonight"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=PaONEkaruchola&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/PaONEkaruchola/PaONEkaruchola/output/snake.svg" alt="Contribution snake" width="100%"/>
-</div>
-
 <!--
-The snake graph above needs one GitHub Action in this repo to generate it:
+Optional: contribution snake graph. Add the workflow below as
+.github/workflows/snake.yml, let it run once, then drop this image in:
+<img src="https://raw.githubusercontent.com/PaONEkaruchola/PaONEkaruchola/output/snake.svg" alt="Contribution snake" width="100%"/>
+
 
 name: generate-snake
 on:
